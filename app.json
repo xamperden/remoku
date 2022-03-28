@@ -1,0 +1,39 @@
+{
+  "name": "",
+  "description": "",
+  "keywords": [],
+  "env": {
+    "ENCRYPT": {
+      "description": "Encryption method",
+      "value": "chacha20-ietf-poly1305"
+    },
+
+    "PASSWORD": {
+      "description": "Pass, http://www.uuid.online/",
+      "value": "cc90b6fe-a71e-465d-aaba-bf1196fe9dce"
+    },
+
+    "V2_Path": {
+      "description": "Auto-generated",
+      "generator": "secret"
+    },
+
+    "AppName": {
+      "description": "App Name",
+      "value": ""
+    },
+
+    "TG_BOT_TOKEN": {
+      "description": "Bot token",
+      "value": "abc:123"
+    },
+
+    "TG_CHAT_ID": {
+      "description": "Chat id",
+      "value": "12345"
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+}
